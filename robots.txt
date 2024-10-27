@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brhaur.github.io/FSi/sitemap.FSi
