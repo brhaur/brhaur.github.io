@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brhaur.csgad.com/hUI/sitemap.xml.gz
